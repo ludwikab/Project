@@ -1,0 +1,6 @@
+[submodule "Hexgrif"]
+	path = Hexgrif
+	url = https://github.com/behreajj/HexGrid
+[submodule "Hexgrid"]
+	path = Hexgrid
+	url = https://github.com/behreajj/HexGrid
